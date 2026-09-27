@@ -1,0 +1,17 @@
+# Environment variables
+.env
+.env.local
+
+# Dependency directories
+vendor/
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# IDE / OS metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

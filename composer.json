@@ -1,0 +1,16 @@
+{
+    "name": "ecocollect/waste-management-platform",
+    "description": "EcoCollect — Smart Waste Collection Management Platform",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "ext-pdo": "*",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "EcoCollect\\": "src/"
+        }
+    }
+}
